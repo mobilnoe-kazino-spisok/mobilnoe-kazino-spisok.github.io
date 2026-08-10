@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: mobilnoe-kazino-spisok.github.io
+Sitemap: https://mobilnoe-kazino-spisok.github.io/sitemap.xml
